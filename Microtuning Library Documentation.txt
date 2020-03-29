@@ -15,6 +15,26 @@
  11:       1100.000 cents    1100.000000
  12:          2/1            1200.000000 octave
 |
+35.1 CET - Wendy Carlos - Gamma
+|
+  0:          1/1               0.000000 unison, perfect prime
+  1:         35.100 cents      35.100000
+|
+63.8 CET - Wendy Carlos - Beta
+|
+  0:          1/1               0.000000 unison, perfect prime
+  1:         63.800 cents      63.800000
+|
+78.0 CET - Wendy Carlos - Alpha
+|
+  0:          1/1               0.000000 unison, perfect prime
+  1:         78.000 cents      78.000000
+|
+88.0 CET - Gary Morrison
+|
+  0:          1/1               0.000000 unison, perfect prime
+  1:         88.000 cents      88.000000
+|
 Bohlen-Pierce: ED3-13 - Equal division of harmonic 3 into 13 parts
 |
   0:          1/1               0.000000 unison, perfect prime
